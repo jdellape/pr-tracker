@@ -1,0 +1,50 @@
+[
+  {
+    "lift": "Front Squat",
+    "weight": "185",
+    "reps": "1",
+    "date": "2021-12-17"
+  },
+  {
+    "lift": "Push Jerk",
+    "weight": "160",
+    "reps": "1",
+    "date": "2021-12-16"
+  },
+  {
+    "lift": "Power Clean",
+    "weight": "700",
+    "reps": "1",
+    "date": "2021-12-17"
+  },
+  {
+    "lift": "Bench Press",
+    "weight": "90",
+    "reps": "2",
+    "date": "2021-12-16"
+  },
+  {
+    "lift": "Push Jerk",
+    "weight": "200",
+    "reps": "1",
+    "date": "2021-12-16"
+  },
+  {
+    "lift": "Bench Press",
+    "weight": "200",
+    "reps": "4",
+    "date": "2021-12-16"
+  },
+  {
+    "lift": "Push Jerk",
+    "weight": "155",
+    "reps": "4",
+    "date": "2021-12-17"
+  },
+  {
+    "lift": "Push Press",
+    "weight": "200",
+    "reps": "1",
+    "date": "2021-12-18"
+  }
+]
